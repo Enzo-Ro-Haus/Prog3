@@ -1,0 +1,23 @@
+img, video, audio{
+    width: 32%;
+    height: 200px;
+    padding: 5px;
+    align-items: center;
+}
+
+table{
+    width: 25%;
+    border-collapse: collapse;
+    border-style: groove;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+tfoot {
+    background-color: whitesmoke;
+    font-weight: bold;
+}
